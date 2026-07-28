@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous-pxe&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous-pxe" /> </p>
 
-<h1>💬about me</h1> I'm a second-year IT student, exploring the world of technology and coding.
+<h1>💬about me</h1> I'm an IT student, exploring the world of technology and coding.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
